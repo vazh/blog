@@ -32,7 +32,7 @@ googleAnalytics = "UA-87075507-1"
 	
 	[[params.navlinks]]
 	name = "About"
-	url = "about"
+	url = "/about"
 	
 	[[params.navlinks]]
 	name = "Blog"
@@ -40,5 +40,5 @@ googleAnalytics = "UA-87075507-1"
 	
 	[[params.navlinks]]
 	name = "Tutorials"
-	url = "tutorial/"
+	url = "/tutorial/"
 
