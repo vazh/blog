@@ -1,4 +1,4 @@
-baseurl = "http://vazh.github.io"
+baseurl = "https://vazh.github.io"
 relativeURLs = false
 title = "It's Me, VAZH"
 languageCode = "en-us"
